@@ -1,0 +1,35 @@
+* {
+    margin: 0;
+    padding: 0;
+
+}
+body {
+    width: 210mm;
+    height: 297mm;
+    border: 1px solid black;
+    margin: 0 auto;
+    line-height: .7cm;
+    font-size: 16px;
+}
+
+header{
+    text-align: right;
+    padding: 8mm 15mm;
+}
+
+.middle {
+    padding: 0 15mm;
+}
+
+ul {
+    padding: 0 1.5cm;
+}
+
+.important_university_dates {
+    color: blue;
+}
+
+.caption {
+    font-size: 24px;
+    font-weight: bold;
+}
